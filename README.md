@@ -1,4 +1,4 @@
-## Exp:1 Ideal Sampling
+# Exp:1 Ideal Sampling
 # DEVARAJAN  
 # 21223060044
 ## Aim
